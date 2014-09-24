@@ -2,9 +2,10 @@
    "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-	<title>New File</title>
+	<title>New Title</title>
 </head>
 <body>
 	<p>This is a new file! With new information!</p>
+	<p>This is where I edit my file on a new branch to see what happens!</p>
 </body>
 </html>
